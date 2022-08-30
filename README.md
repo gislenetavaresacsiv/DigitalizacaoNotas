@@ -108,8 +108,12 @@ Ao preencher as informações, basta clicar em ![botao_pesquisa](https://github.
 
 ![primeira](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/3.PNG)
 
-Após realizar a 
+Agora com as informações preenchidas e carregadas na tela, basta clicar em ![confirmar](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/BOTAO_CONFIRMAR.PNG).
 
-![segunda]()
+![segunda](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/4.PNG)
 
-![]()
+Se algo der errado, o sistema vai emitir uma mensagem de alerta.
+
+![finalizacao](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/tree/main/IMAGENS)
+
+
