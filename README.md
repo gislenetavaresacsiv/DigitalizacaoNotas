@@ -104,7 +104,11 @@ Para digitalizar o livro para o sistema, basta acessar o (*Menu Notas > Digitali
 
 **e. Posição final:** Posição final, é a quantidade de caracteres que se encontra no nome do seu arquivo. **Ex.:** 001N. Por padrão, é ideal sempre manter a posição final como 4.
 
+Ao preencher as informações, basta clicar em ![botao_pesquisa](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/PESQUISAR.PNG), para o sistema carregar as imagens. 
+
 ![primeira](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/3.PNG)
+
+Após realizar a 
 
 ![segunda]()
 
