@@ -12,6 +12,18 @@ Antes de mostrar o processo de digitalização do livro dentro do sistema, vamos
 
 Primeiro passo a ser feito é verificar a nomenclatura do documento dentro do Acsiv, pelo *(Menu Notas > Documentos).*
 
+![documento](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/NOME_LIVRO_MENU_DOCUMENTOS.PNG)
+
+Nesse exemplo, foi utilizado o livro *004N*. Ao localizar o livro dentro do sistema, é necessário verificar as folhas do livro físico, com o documento dentro do sistema, pois ao digitalizar, o sistema realiza uma verificação. 
+
+Essa verificação acontece da seguinte maneira:
+
+* O sistema verifica todos os livros e folha que se encontra no *(Menu Notas > Documentos)*, com os arquivos que foram digitalizados *(Na pasta do seu computador)*, se houver divergência de informações *(Quantidades de páginas diferentes)*, a digitalização não acontece. 
+
+No próximo passo, vamos demonstrar como criar a pasta dentro do seu computador com a nomenclatura correta.
+
+
+
 **2° Passo:** *Criação da pasta no computador*.
 
 **3° Passo:** *Digitalização do livro para a pasta criada no passo 2*.
