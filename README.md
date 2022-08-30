@@ -84,6 +84,28 @@ Após criar a pasta, basta digitalizar as imagens conforme exemplo a seguir:
 
 **5° Passo:** *Digitalização do livro*.
 
+Agora com todas as configurações realizadas, o sistema já esta preparado para realizar o passo 5.
 
+Para digitalizar o livro para o sistema, basta acessar o (*Menu Notas > Digitalização de livros*).
+
+* Esolha o livro para realizar a digitalização.
+
+![livro](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/1.PNG)
+
+**a. Livro:** Mostra todos os livros criados no *(Menu Notas > Documentos)*, basta selecionar qual você quer realizar a digitalização.
+
+**b. Última folha:** Para informar a última folha do seu livro, nesse exemplo, foi utilizado um livro com *200* folhas.
+
+**c. Sequência:** Pode-se escolher pelas duas opções, *Página e Frente/Verso*. Escolha a opção de sequência do seu livro.
+
+**d. Local:** Local onde se encontra as imagens que foram digitalizadas e salvas no seu computador. **Ex.:** //srvaciv/ondrive/servidoracsiv/ged/notas/livros.
+
+![local](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/2.PNG)
+
+**e. Posição final:** Posição final, é a quantidade de caracteres que se encontra no nome do seu arquivo. **Ex.:** 001N. Por padrão, é ideal sempre manter a posição final como 4.
+
+![primeira](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/3.PNG)
+
+![segunda]()
 
 ![]()
