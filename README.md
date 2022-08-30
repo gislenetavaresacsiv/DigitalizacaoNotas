@@ -20,9 +20,21 @@ Ao lavrar, o sistema mostra o identificador ao lado do número do livro, conform
 
 ![identificador_lavrar](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/LETRA_AO_LAVRAR.png)
 
-**Obs:** Esse identificador é utilizado pelo sistema para validar o seu arquivo digitalizado na pasta (criada no seu computador) com a ato realizado dentro do *Acsiv*. 
+**Obs:** Esse identificador é utilizado pelo sistema para validar o arquivo digitalizado na pasta (criada no seu computador), com a ato realizado dentro do *Acsiv* *(Menu Notas > Documentos)*. 
 
-Outra configuração que é necessária, é 
+A próxima configuração a ser feita é pelo *(Menu Notas > Configurações).*
+
+Ao acessar, basta clicar em ![pesquisar](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/PESQUISAR.PNG), o sistema vai apresentar a seguinte tela:
+
+![configurações](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/NOTAS_CONFIGURACOES.PNG)
+
+Clique em ![abrir](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/BOTAO_ABRIR.PNG) para acessar as configurações.
+
+Vamos precisar escolher o tipo de documento, para quando acontecer a digitalização o sistema possa inserir no GED o arquivo com o tipo de documento configurado na aba *Documentos*, conforme imagem abaixo:
+
+![ged_tipo](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/GED_CONFIGURACOES.PNG)
+
+![]()
 
 **2° Passo:** *Preparação dos documentos*.
 
