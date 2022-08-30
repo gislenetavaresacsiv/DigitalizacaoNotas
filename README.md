@@ -34,11 +34,21 @@ Vamos precisar escolher o tipo de documento, para quando acontecer a digitaliza�
 
 ![ged_tipo](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/GED_CONFIGURACOES.PNG)
 
-![]()
+Mas para selecionar as opções apresentadas na aba *Documentos > GED Tipo*, é necessário criar os tipos de documentos pelo *(Menu GED > tipos de documentos).* 
+
+![tipo_documentos](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/TIPO_GED.png)
+
+![tipos_documentos](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/TIPOS_DOCUMENTOS_NOVO.PNG)
+
+Para criar um tipo de documento, basta clicar em ![botao](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/TIPOS_DOCUMENTOS_BOTAO_NOVO.PNG).
+
+Ao clicar em novo,basta preencher a descrição conforme necessidade e selecionar a pasta *Cartório*.
+
+![tipos](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/TIPOS_DOCUMENTOS.PNG)
 
 **2° Passo:** *Preparação dos documentos*.
 
-Primeiro passo a ser feito, é verificar a nomenclatura do documento dentro do Acsiv, pelo *(Menu Notas > Documentos).*
+Segundo passo a ser feito, é verificar a nomenclatura do documento dentro do Acsiv, pelo *(Menu Notas > Documentos).*
 
 ![documento](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/NOME_LIVRO_MENU_DOCUMENTOS.PNG)
 
@@ -54,11 +64,13 @@ No próximo passo, vamos demonstrar como criar a pasta dentro do seu computador 
 
 **3° Passo:** *Criação da pasta no computador*.
 
-É necessário a criação de uma pasta dentro do seu computador, para salvar a digitalização do seu livro físico.
+Terceiro passo é necessário a criação de uma pasta dentro do seu computador, para salvar a digitalização do seu livro físico.
 
 ![ordem](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/ORDEM_LIVROS_PASTA_COMPUTADOR.PNG)
 
 O ideal é criar as pastas conforme imagem anterior, note que no exemplo utilizado, a pasta se encontra em *(//srvaciv/ondrive/servidoracsiv/ged/notas/livros)*, o caminho da pasta é o próprio caminho do sistema. Dentro da pasta *Livros*, se encontra os livros do cartório, cada um, separado por nome e sua letra.
+
+**Obs.:** Se preferir, pode digitar os livros em uma pasta de costume do cartório e depois derecionar os arquivos para a pasta do sistema conforme demonstrado.
 
 Vejam como é digitalizado as folhas do livro no próximo passo.
 
