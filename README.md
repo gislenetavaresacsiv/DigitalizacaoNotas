@@ -114,6 +114,6 @@ Agora com as informações preenchidas e carregadas na tela, basta clicar em ![c
 
 Se algo der errado, o sistema vai emitir uma mensagem de alerta.
 
-![finalizacao](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/tree/main/IMAGENS)
+![finalizacao](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/5.PNG)
 
 
