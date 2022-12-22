@@ -126,7 +126,7 @@ Com todas as informações preenchidas corretamente, o Acsiv retornará a mensag
 
 ![fim](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/DIGITALIZACAO_REALIZADA_COM_SUCESSO.PNG)
 
-Finalizado a digitalização do livro pelo *Menu Notas > Digitalização de livros*, você pode conferir a inserção das folhas pelo *Menu Notas > Documentos > Aba GED*, conforme imagem à seguir:
+Finalizado a digitalização do livro pelo *Menu Notas > Digitalização de livros*, você pode conferir a inserção do livro pelo *Menu Notas > Documentos > Aba GED*, conforme imagem à seguir:
 
 ![conferir_ged](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/GED_COM_DIGITALIZACAO_1.PNG)
 
