@@ -2,7 +2,7 @@
 
 Digitalização de livros se caracteriza por ser o processo em que um documento em estado físico, ou seja, em papel, é convertido para o formato digital. Um dos principais benefícios que a digitalização de livros oferece é mais acessibilidade, pois diferente dos documentos em papel, os arquivos eletrônicos podem ser acessados por mais de uma pessoa ao mesmo tempo e em diferentes estações do cartório, apenas acessando o GED do documento.
 
-Para acessar a Digitalização de livros, acesse o *(Menu Notas > Digitalização de livros)*
+Para acessar a Digitalização de livros, acesse o *(Menu Notas > Digitalização de livros).*
 
 ![menu](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/MENU.png)
 
@@ -129,7 +129,7 @@ Com todas as informações preenchidas corretamente, o Acsiv retornará a mensag
 
 ![fim](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/DIGITALIZACAO_REALIZADA_COM_SUCESSO.PNG)
 
-Finalizado a digitalização do livro pelo *Menu Notas > Digitalização de livros*, você pode conferir a inserção do livro pelo *(Menu Notas > Documentos > Aba GED)*, conforme imagem à seguir:
+Finalizado a digitalização do livro pelo *(Menu Notas > Digitalização de livros)*, você pode conferir a inserção do livro pelo *(Menu Notas > Documentos > Aba GED)*, conforme imagem à seguir:
 
 ![conferir_ged](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/GED_COM_DIGITALIZACAO_1.PNG)
 
