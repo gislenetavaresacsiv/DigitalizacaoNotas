@@ -104,16 +104,30 @@ Para digitalizar o livro para o sistema, basta acessar o (*Menu Notas > Digitali
 
 **e. Posição final:** Posição final, é a quantidade de caracteres que se encontra no nome do seu arquivo. **Ex.:** 001N. Por padrão, é ideal sempre manter a posição final como 4.
 
+**6° Passo:** *Digitalizando.*
+
 Ao preencher as informações, basta clicar em ![botao_pesquisa](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/PESQUISAR.PNG), para o sistema carregar as imagens. 
 
 ![primeira](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/3.PNG)
 
-Agora com as informações preenchidas e carregadas na tela, basta clicar em ![confirmar](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/BOTAO_CONFIRMAR.PNG).
+> Agora com as informações preenchidas e carregadas na tela, basta clicar em ![confirmar](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/BOTAO_CONFIRMAR.PNG).
 
 ![segunda](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/4.PNG)
 
 Se algo der errado, o sistema vai emitir uma mensagem de alerta.
 
 ![finalizacao](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/5.PNG)
+
+Após verificar a mensagem, é preciso conferir a quantidade de folhas digitalizadas na pasta criada no seu computador com a quantidade de folhas do livro dentro do Acsiv, pois a pasta deve conter exatamente a mesma quantidade de folhas do livro digitalizadas, com a quantidade de folhas do livro registradas pelo *Menu Notas > Documentos*.
+
+Ao realizar a alteração das quantidades de folhas, basta realizar o procedimento do *5° Passo: Digitalização do livro.* 
+
+Com todas as informações preenchidas corretamente, o Acsiv retornará a mensagem *"Digitalização de livros realizada com sucesso"*, conforme imagem abaixo:
+
+![fim](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/DIGITALIZACAO_REALIZADA_COM_SUCESSO.PNG)
+
+Finalizado a digitalização do livro pelo *Menu Notas > Digitalização de livros*, você pode conferir a inserção das folhas pelo *Menu Notas > Documentos > Aba GED*, conforme imagem à seguir:
+
+![conferir_ged](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/GED_COM_DIGITALIZACAO_1.PNG)
 
 
