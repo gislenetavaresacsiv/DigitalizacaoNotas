@@ -10,7 +10,7 @@ Antes de mostrar o processo de digitalização do livro dentro do sistema, vamos
 
 **1° Passo:** *Configurações no Acsiv Sistemas*. 
 
-Primeiro passo é colocar o identificador no ato, pelo *(Menu Catório > Atos)*, você escolhe o ato, **Ex.:** *Procuração Genérica - Acsiv*.
+Primeiro passo é colocar o identificador no ato, pelo *(Menu Cartório > Atos)*, você escolhe o ato, **Ex.:** *Procuração Genérica - Acsiv*.
 
 Na aba modelos > campo *Identificador*, você vai colocar a letra de sua preferência. **Ex.:** P. 
 
@@ -20,7 +20,7 @@ Ao lavrar, o sistema mostra o identificador ao lado do número do livro, conform
 
 ![identificador_lavrar](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/LETRA_AO_LAVRAR.png)
 
-**Obs:** Esse identificador é utilizado pelo sistema para validar o arquivo digitalizado na pasta (criada no seu computador), com a ato realizado dentro do *Acsiv* *(Menu Notas > Documentos)*. 
+**Obs:** Esse identificador é utilizado pelo sistema para validar o arquivo digitalizado na pasta (criada no seu computador), com o ato realizado dentro do *Acsiv* *(Menu Notas > Documentos)*. 
 
 A próxima configuração a ser feita é pelo *(Menu Notas > Configurações).*
 
@@ -34,7 +34,7 @@ Vamos precisar escolher o tipo de documento, para quando acontecer a digitaliza�
 
 ![ged_tipo](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/GED_CONFIGURACOES.PNG)
 
-Mas para selecionar as opções apresentadas na aba *Documentos > GED Tipo*, é necessário criar os tipos de documentos pelo *(Menu GED > tipos de documentos).* 
+Para selecionar as opções apresentadas na aba *Documentos > GED Tipo*, é necessário criar os tipos de documentos pelo *(Menu GED > tipos de documentos).* 
 
 ![tipo_documentos](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/TIPO_GED.png)
 
@@ -56,7 +56,7 @@ Nesse exemplo, foi utilizado o livro *004N*. Ao localizar o livro dentro do sist
 
 Essa verificação acontece da seguinte maneira:
 
-* O sistema verifica todos os livros e folha que se encontra no *(Menu Notas > Documentos)*, com os arquivos que foram digitalizados *(Na pasta do seu computador)*, se houver divergência de informações *(Quantidades de páginas diferentes)*, a digitalização não acontece. 
+* O sistema verifica todos os livros e folha que se encontra no *(Menu Notas > Documentos)*, com os arquivos que foram digitalizados *(na pasta do seu computador)*, se houver divergência de informações *(quantidades de páginas diferentes)*, a digitalização não acontece. 
 
 No próximo passo, vamos demonstrar como criar a pasta dentro do seu computador com a nomenclatura correta.
 
@@ -88,7 +88,7 @@ Agora com todas as configurações realizadas, o sistema já esta preparado para
 
 Para digitalizar o livro para o sistema, basta acessar o (*Menu Notas > Digitalização de livros*).
 
-* Esolha o livro para realizar a digitalização.
+* Escolha o livro para realizar a digitalização.
 
 ![livro](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/1.PNG)
 
@@ -110,15 +110,18 @@ Ao preencher as informações, basta clicar em ![botao_pesquisa](https://github.
 
 ![primeira](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/3.PNG)
 
-> Agora com as informações preenchidas e carregadas na tela, basta clicar em ![confirmar](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/BOTAO_CONFIRMAR.PNG).
+Agora com as informações preenchidas e carregadas na tela, basta clicar em ![confirmar](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/BOTAO_CONFIRMAR.PNG).
+
 
 ![segunda](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/4.PNG)
 
 Se algo der errado, o sistema vai emitir uma mensagem de alerta.
 
+
 ![finalizacao](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/5.PNG)
 
-Após verificar a mensagem, é preciso conferir a quantidade de folhas digitalizadas na pasta criada no seu computador com a quantidade de folhas do livro dentro do Acsiv, pois a pasta deve conter exatamente a mesma quantidade de folhas do livro digitalizadas, com a quantidade de folhas do livro registradas pelo *Menu Notas > Documentos*.
+
+Após verificar a mensagem, é preciso conferir a quantidade de folhas digitalizadas do livro físico na pasta criada no seu computador com a quantidade de folhas do livro dentro do Acsiv, pois a pasta deve conter exatamente a mesma quantidade de folhas do livro físico digitalizadas, com a quantidade de folhas do livro registradas pelo *(Menu Notas > Documentos)*.
 
 Ao realizar a alteração das quantidades de folhas, basta realizar o procedimento do *5° Passo: Digitalização do livro.* 
 
@@ -126,7 +129,7 @@ Com todas as informações preenchidas corretamente, o Acsiv retornará a mensag
 
 ![fim](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/DIGITALIZACAO_REALIZADA_COM_SUCESSO.PNG)
 
-Finalizado a digitalização do livro pelo *Menu Notas > Digitalização de livros*, você pode conferir a inserção do livro pelo *Menu Notas > Documentos > Aba GED*, conforme imagem à seguir:
+Finalizado a digitalização do livro pelo *Menu Notas > Digitalização de livros*, você pode conferir a inserção do livro pelo *(Menu Notas > Documentos > Aba GED)*, conforme imagem à seguir:
 
 ![conferir_ged](https://github.com/gislenetavaresacsiv/DigitalizacaoNotas/blob/main/IMAGENS/GED_COM_DIGITALIZACAO_1.PNG)
 
